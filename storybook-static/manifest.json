@@ -1,0 +1,13 @@
+{
+  "app": "superset",
+  "entrypoints": {
+    "main": {
+      "css": [],
+      "js": [
+        "/static/assets/runtime~main.051fb1e5.iframe.bundle.js",
+        "/static/assets/1723.1e07f86d.iframe.bundle.js",
+        "/static/assets/main.fc09048a.iframe.bundle.js"
+      ]
+    }
+  }
+}
